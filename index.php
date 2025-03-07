@@ -44,7 +44,7 @@ $teamMembers = [
         <?php endforeach; ?>
     </div>
 
-    <!-- Pop-ups -->
+    <!-- Pop-up -->
     <?php foreach ($teamMembers as $index => $member): ?>
     <div id="popup-<?php echo $index; ?>" class="pop-up">
         <div class="pop-up-content">

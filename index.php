@@ -1,7 +1,7 @@
 <?php
 $teamMembers = [
     ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/zhifa.jpg", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
-    ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/profile.png", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
+    ["name" => "Alifa Oty Salsabilla", "role" => "Back End Developer", "image" => "assets/alifa.jpg", "email" => "alifaotysalsabillaaa@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/alifaoty/", "linkedinDisplay" => "alifaoty"],
     ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/profile.png", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
     ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/profile.png", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
 ];

@@ -1,7 +1,7 @@
 <?php
 $teamMembers = [
     ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/zhifa.jpg", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
-    ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/profile.png", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
+    ["name" => "Alifa Oty Salsabilla", "role" => "Back End Developer", "image" => "assets/alifa.jpg", "email" => "alifaotysalsabillaaa@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/alifaoty/", "linkedinDisplay" => "alifaoty"],
     ["name" => "Alfiyatuzzulfa F", "role" => "Server & UI/UX", "image" => "assets/afa.jpg", "email" => "alfiyatuzzulfaf@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/alfiyatuzzulfa-fitrotunnadzifah-771056309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app", "linkedinDisplay" => "alfiyatuzzulfa"],
     ["name" => "Rifdah Inas Nazhifah", "role" => "Front End Developer", "image" => "assets/profile.png", "email" => "rfdnazhifah@gmail.com", "linkedinUrl"=> "https://www.linkedin.com/in/rfdnazhifah/", "linkedinDisplay" => "rfdnazhifah"],
 ];
